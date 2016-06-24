@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: a7cac8809145299468133c30287fb97d
+timeCreated: 1466486536
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: archer_0
+    21300002: archer_1
+    21300004: archer_2
+    21300006: archer_3
+    21300008: archer_4
+    21300010: archer_5
+    21300012: archer_6
+    21300014: archer_7
+    21300016: archer_8
+    21300018: archer_9
+    21300020: archer_10
+    21300022: archer_11
+    21300024: archer_12
+    21300026: archer_13
+    21300028: archer_14
+    21300030: archer_15
+    21300032: archer_16
+    21300034: archer_17
+    21300036: archer_18
+    21300038: archer_19
+    21300040: archer_20
+    21300042: archer_21
+    21300044: archer_22
+    21300046: archer_23
+    21300048: archer_24
+    21300050: archer_25
+    21300052: archer_26
+    21300054: archer_27
+    21300056: archer_28
+    21300058: archer_29
+    21300060: archer_30
+    21300062: archer_31
+    21300064: archer_32
+    21300066: archer_33
+    21300068: archer_34
+    21300070: archer_35
+    21300072: archer_36
+    21300074: archer_37
+    21300076: archer_38
+    21300078: archer_39
+    21300080: archer_40
+    21300082: archer_41
+    21300084: archer_42
+    21300086: archer_43
+    21300088: archer_44
+    21300090: archer_45
+    21300092: archer_46
+    21300094: archer_47
+    21300096: archer_48
+    21300098: archer_49
+    21300100: archer_50
+    21300102: archer_51
+    21300104: archer_52
+    21300106: archer_53
+    21300108: archer_54
+    21300110: archer_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: archer_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 305
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 37.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -33.5}
+        - {x: -16.5, y: -37.5}
+        - {x: 19.5, y: -37.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 20.5, y: 34.5}
+        - {x: 17.5, y: 37.5}
+    - name: archer_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 308
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 33.5}
+        - {x: -9.5, y: 33.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: -33.5}
+        - {x: 21.5, y: -33.5}
+        - {x: 21.5, y: 12.5}
+        - {x: 18.5, y: 28.5}
+    - name: archer_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 308
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 34.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -34.5}
+        - {x: 19, y: -34.5}
+        - {x: 19, y: 23.5}
+        - {x: 14, y: 34.5}
+    - name: archer_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 306
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 36}
+        - {x: -8, y: 36}
+        - {x: -21, y: 30}
+        - {x: -21, y: -36}
+        - {x: 18, y: -36}
+        - {x: 21, y: -27}
+        - {x: 21, y: 30}
+    - name: archer_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 305
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 36}
+        - {x: -12, y: 26}
+        - {x: -22, y: 12}
+        - {x: -22, y: -26}
+        - {x: -20, y: -36}
+        - {x: 20, y: -36}
+        - {x: 22, y: -30}
+        - {x: 22, y: 34}
+        - {x: 15, y: 36}
+    - name: archer_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 303
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 36}
+        - {x: -23, y: 6}
+        - {x: -23, y: -25}
+        - {x: -20, y: -33}
+        - {x: -11, y: -36}
+        - {x: 13, y: -36}
+        - {x: 23, y: -30}
+        - {x: 23, y: 28}
+        - {x: 19, y: 36}
+    - name: archer_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 298
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 37.5}
+        - {x: -24, y: 24.5}
+        - {x: -24, y: -7.5}
+        - {x: -19, y: -32.5}
+        - {x: 1, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 24, y: -27.5}
+        - {x: 24, y: 34.5}
+        - {x: 17, y: 37.5}
+    - name: archer_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 301
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 30.5}
+        - {x: -20.5, y: 20.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -30.5}
+        - {x: 22.5, y: -30.5}
+        - {x: 22.5, y: 22.5}
+        - {x: 8.5, y: 30.5}
+    - name: archer_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 293
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 23.5}
+        - {x: 0, y: 23.5}
+        - {x: -27, y: 14.5}
+        - {x: -30, y: 7.5}
+        - {x: -30, y: -8.5}
+        - {x: -17, y: -23.5}
+        - {x: 7, y: -23.5}
+        - {x: 26, y: -6.5}
+        - {x: 30, y: 0.5}
+        - {x: 30, y: 21.5}
+    - name: archer_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 308
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 34.5}
+        - {x: -17, y: 24.5}
+        - {x: -17, y: -34.5}
+        - {x: 17, y: -34.5}
+        - {x: 17, y: 20.5}
+        - {x: 11, y: 34.5}
+    - name: archer_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 308
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 34.5}
+        - {x: -12, y: 34.5}
+        - {x: -16, y: 31.5}
+        - {x: -16, y: -34.5}
+        - {x: 16, y: -34.5}
+        - {x: 16, y: 28.5}
+        - {x: 15, y: 32.5}
+    - name: archer_11
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 304
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 24.5}
+        - {x: 4.5, y: 29.5}
+        - {x: -18.5, y: 29.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -26.5, y: -18.5}
+        - {x: -19.5, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 26.5, y: -25.5}
+        - {x: 26.5, y: -3.5}
+        - {x: 17.5, y: 13.5}
+    - name: archer_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 304
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 6}
+        - {x: -27.5, y: -20}
+        - {x: -20.5, y: -29}
+        - {x: 21.5, y: -29}
+        - {x: 27.5, y: -26}
+        - {x: 27.5, y: -3}
+        - {x: 13.5, y: 29}
+        - {x: -15.5, y: 29}
+        - {x: -24.5, y: 13}
+    - name: archer_13
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 303
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -23.5}
+        - {x: -16, y: -36.5}
+        - {x: 18, y: -36.5}
+        - {x: 18, y: 36.5}
+    - name: archer_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 209
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 37.5}
+        - {x: -14.5, y: 37.5}
+        - {x: -17.5, y: 29.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -20.5, y: 10.5}
+        - {x: -18.5, y: 9.5}
+        - {x: -14.5, y: 9.5}
+        - {x: -11.5, y: 12.5}
+        - {x: -18.5, y: 2.5}
+        - {x: -20.5, y: -7.5}
+        - {x: -20.5, y: -37.5}
+        - {x: 14.5, y: -37.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 20.5, y: 13.5}
+    - name: archer_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 212
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -33.5}
+        - {x: 21.5, y: -2.5}
+        - {x: 15.5, y: 24.5}
+        - {x: 7.5, y: 33.5}
+        - {x: -15.5, y: 33.5}
+        - {x: -18.5, y: 27.5}
+        - {x: -17.5, y: 19.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -21.5, y: -33.5}
+        - {x: -14.5, y: -33.5}
+        - {x: -14.5, y: -31.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -10.5, y: -33.5}
+    - name: archer_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 212
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 34.5}
+        - {x: -19, y: -34.5}
+        - {x: 19, y: -34.5}
+        - {x: 19, y: 23.5}
+        - {x: 11, y: 34.5}
+    - name: archer_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 211
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 36}
+        - {x: -21, y: 20}
+        - {x: -21, y: -19}
+        - {x: -20, y: -28}
+        - {x: -14, y: -36}
+        - {x: 21, y: -36}
+        - {x: 21, y: 28}
+        - {x: 20, y: 36}
+    - name: archer_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 209
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 36}
+        - {x: -22, y: 23}
+        - {x: -22, y: -34}
+        - {x: -18, y: -36}
+        - {x: 13, y: -36}
+        - {x: 22, y: -25}
+        - {x: 22, y: 15}
+        - {x: 12, y: 36}
+    - name: archer_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 207
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 36}
+        - {x: -23, y: 29}
+        - {x: -23, y: -25}
+        - {x: -22, y: -29}
+        - {x: -13, y: -36}
+        - {x: 14, y: -36}
+        - {x: 20, y: -33}
+        - {x: 23, y: -26}
+        - {x: 23, y: 8}
+        - {x: 12, y: 36}
+    - name: archer_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 203
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -27.5}
+        - {x: 17, y: -19.5}
+        - {x: 17, y: -12.5}
+        - {x: 24, y: 2.5}
+        - {x: 24, y: 20.5}
+        - {x: 8, y: 37.5}
+        - {x: -17, y: 37.5}
+        - {x: -24, y: 36.5}
+        - {x: -24, y: -30.5}
+        - {x: -19, y: -37.5}
+        - {x: -5, y: -37.5}
+        - {x: -4, y: -36.5}
+        - {x: -4, y: -32.5}
+        - {x: 6, y: -29.5}
+    - name: archer_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 205
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 30.5}
+        - {x: -19.5, y: 17.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -22.5, y: 0.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -21.5, y: -30.5}
+        - {x: 21.5, y: -30.5}
+        - {x: 22.5, y: -29.5}
+        - {x: 22.5, y: 14.5}
+        - {x: 14.5, y: 30.5}
+    - name: archer_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 197
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 23.5}
+        - {x: -30, y: 23.5}
+        - {x: -30, y: 1.5}
+        - {x: -7, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 30, y: -8.5}
+        - {x: 30, y: 8.5}
+        - {x: 27, y: 15.5}
+    - name: archer_23
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 210
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 34.5}
+        - {x: -17, y: 24.5}
+        - {x: -17, y: -34.5}
+        - {x: 17, y: -34.5}
+        - {x: 17, y: 34.5}
+    - name: archer_24
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 210
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 34.5}
+        - {x: -16, y: -34.5}
+        - {x: 16, y: -34.5}
+        - {x: 16, y: 34.5}
+    - name: archer_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 207
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 29.5}
+        - {x: -26.5, y: 7.5}
+        - {x: -26.5, y: -20.5}
+        - {x: -7.5, y: -29.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 21.5, y: 29.5}
+    - name: archer_26
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 207
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 29}
+        - {x: -7.5, y: 29}
+        - {x: -18.5, y: 14}
+        - {x: -15.5, y: 10}
+        - {x: -12.5, y: 7}
+        - {x: -10.5, y: 7}
+        - {x: -12.5, y: 7}
+        - {x: -19.5, y: 4}
+        - {x: -27.5, y: -4}
+        - {x: -27.5, y: -18}
+        - {x: -25.5, y: -18}
+        - {x: -7.5, y: -29}
+        - {x: 11.5, y: -29}
+        - {x: 26.5, y: -14}
+        - {x: 27.5, y: -11}
+        - {x: 27.5, y: 11}
+    - name: archer_27
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 206
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 36.5}
+        - {x: -18, y: 28.5}
+        - {x: -18, y: -36.5}
+        - {x: 12, y: -36.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 19.5}
+        - {x: 15, y: 36.5}
+    - name: archer_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 113
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -32.5}
+        - {x: -15, y: -36.5}
+        - {x: 20, y: -36.5}
+        - {x: 20, y: 33.5}
+        - {x: 19, y: 36.5}
+        - {x: -19, y: 36.5}
+        - {x: -20, y: 33.5}
+    - name: archer_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 113
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 33.5}
+        - {x: -20.5, y: -30.5}
+        - {x: -11.5, y: -33.5}
+        - {x: 18.5, y: -33.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 20.5, y: 3.5}
+        - {x: 11.5, y: 33.5}
+    - name: archer_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 112
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 35}
+        - {x: -13.5, y: 35}
+        - {x: -17.5, y: 27}
+        - {x: -17.5, y: -31}
+        - {x: -14.5, y: -35}
+        - {x: 17.5, y: -35}
+        - {x: 17.5, y: 29}
+        - {x: 10.5, y: 34}
+    - name: archer_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 113
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 35.5}
+        - {x: -19.5, y: -20.5}
+        - {x: -13.5, y: -29.5}
+        - {x: -8.5, y: -32.5}
+        - {x: -4.5, y: -35.5}
+        - {x: 14.5, y: -35.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 19.5, y: 24.5}
+        - {x: 12.5, y: 35.5}
+    - name: archer_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 110
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 36}
+        - {x: -18.5, y: 34}
+        - {x: -21.5, y: 19}
+        - {x: -21.5, y: -27}
+        - {x: -17.5, y: -36}
+        - {x: 11.5, y: -36}
+        - {x: 21.5, y: -29}
+        - {x: 21.5, y: 31}
+        - {x: 5.5, y: 36}
+    - name: archer_33
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 110
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 35}
+        - {x: -23, y: 18}
+        - {x: -23, y: -24}
+        - {x: -21, y: -35}
+        - {x: 13, y: -35}
+        - {x: 23, y: -12}
+        - {x: 23, y: 20}
+        - {x: 9, y: 35}
+    - name: archer_34
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 106
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35.5}
+        - {x: -23.5, y: 25.5}
+        - {x: -23.5, y: -25.5}
+        - {x: -20.5, y: -32.5}
+        - {x: -14.5, y: -35.5}
+        - {x: 17.5, y: -35.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: 21.5}
+        - {x: 12.5, y: 35.5}
+    - name: archer_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 105
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 32}
+        - {x: -14.5, y: 20}
+        - {x: -13.5, y: 16}
+        - {x: -11.5, y: 14}
+        - {x: -14.5, y: 8}
+        - {x: -19.5, y: -3}
+        - {x: -19.5, y: -28}
+        - {x: -8.5, y: -32}
+        - {x: 19.5, y: -32}
+        - {x: 19.5, y: 32}
+    - name: archer_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 105
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -10.5}
+        - {x: 29.5, y: 10.5}
+        - {x: 28.5, y: 15.5}
+        - {x: 20.5, y: 22.5}
+        - {x: -6.5, y: 22.5}
+        - {x: -29.5, y: 3.5}
+        - {x: -29.5, y: -20.5}
+        - {x: -26.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 12.5, y: -18.5}
+        - {x: 11.5, y: -15.5}
+        - {x: 25.5, y: -11.5}
+    - name: archer_37
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 113
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 35.5}
+        - {x: -20.5, y: -35.5}
+        - {x: 20.5, y: -35.5}
+        - {x: 20.5, y: 27.5}
+        - {x: 11.5, y: 35.5}
+    - name: archer_38
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 113
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 35}
+        - {x: -21, y: 31}
+        - {x: -21, y: -30}
+        - {x: -14, y: -35}
+        - {x: 21, y: -35}
+        - {x: 21, y: 31}
+        - {x: 16, y: 35}
+    - name: archer_39
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 118
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 32.5}
+        - {x: -20.5, y: 30.5}
+        - {x: -23.5, y: 8.5}
+        - {x: -23.5, y: -25.5}
+        - {x: -18.5, y: -32.5}
+        - {x: 19.5, y: -32.5}
+        - {x: 23.5, y: -30.5}
+        - {x: 23.5, y: 27.5}
+        - {x: 20.5, y: 32.5}
+    - name: archer_40
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 118
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -25}
+        - {x: 27.5, y: 32}
+        - {x: -8.5, y: 32}
+        - {x: -27.5, y: 1}
+        - {x: -27.5, y: -30}
+        - {x: -22.5, y: -32}
+        - {x: 1.5, y: -32}
+        - {x: 1.5, y: -30}
+        - {x: 2.5, y: -32}
+        - {x: 22.5, y: -32}
+    - name: archer_41
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 115
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 34}
+        - {x: -20.5, y: 17}
+        - {x: -22.5, y: 10}
+        - {x: -22.5, y: -32}
+        - {x: -18.5, y: -34}
+        - {x: 22.5, y: -34}
+        - {x: 22.5, y: 24}
+        - {x: 19.5, y: 34}
+    - name: archer_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 36.5}
+        - {x: -20, y: 32.5}
+        - {x: -20, y: -35.5}
+        - {x: -19, y: -36.5}
+        - {x: 0, y: -36.5}
+        - {x: 8, y: -33.5}
+        - {x: 20, y: -26.5}
+        - {x: 20, y: 36.5}
+    - name: archer_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 17
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 33.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -20.5, y: -32.5}
+        - {x: -19.5, y: -33.5}
+        - {x: 16.5, y: -33.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 20.5, y: 33.5}
+    - name: archer_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 16
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 35}
+        - {x: -3.5, y: 35}
+        - {x: -10.5, y: 34}
+        - {x: -17.5, y: 27}
+        - {x: -17.5, y: -34}
+        - {x: -15.5, y: -35}
+        - {x: 8.5, y: -35}
+        - {x: 16.5, y: -31}
+        - {x: 17.5, y: -26}
+        - {x: 17.5, y: 27}
+    - name: archer_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 17
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 35.5}
+        - {x: -18.5, y: 26.5}
+        - {x: -19.5, y: 12.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -8.5, y: -35.5}
+        - {x: 5.5, y: -35.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 23.5}
+        - {x: 12.5, y: 35.5}
+    - name: archer_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 14
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 36}
+        - {x: -12.5, y: 36}
+        - {x: -21.5, y: 20}
+        - {x: -21.5, y: -33}
+        - {x: -20.5, y: -36}
+        - {x: 11.5, y: -36}
+        - {x: 21.5, y: -25}
+        - {x: 21.5, y: 35}
+    - name: archer_47
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 14
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 35}
+        - {x: -23, y: 32}
+        - {x: -23, y: -11}
+        - {x: -8, y: -35}
+        - {x: 17, y: -35}
+        - {x: 23, y: -20}
+        - {x: 23, y: 27}
+        - {x: 19, y: 35}
+    - name: archer_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 10
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 35.5}
+        - {x: -23.5, y: 17.5}
+        - {x: -23.5, y: -8.5}
+        - {x: -16.5, y: -30.5}
+        - {x: -9.5, y: -35.5}
+        - {x: 5.5, y: -35.5}
+        - {x: 23.5, y: -28.5}
+        - {x: 23.5, y: 35.5}
+    - name: archer_49
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 9
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 32}
+        - {x: -5.5, y: 32}
+        - {x: -14.5, y: 30}
+        - {x: -19.5, y: 25}
+        - {x: -19.5, y: -32}
+        - {x: 14.5, y: -32}
+        - {x: 19.5, y: -26}
+        - {x: 19.5, y: 0}
+        - {x: 16.5, y: 20}
+    - name: archer_50
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 9
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -29.5, y: 12.5}
+        - {x: -29.5, y: -14.5}
+        - {x: -14.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 29.5, y: -15.5}
+        - {x: 29.5, y: -3.5}
+    - name: archer_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 17
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 35.5}
+        - {x: -20.5, y: 23.5}
+        - {x: -20.5, y: -35.5}
+        - {x: 9.5, y: -35.5}
+        - {x: 15.5, y: -33.5}
+        - {x: 20.5, y: -28.5}
+        - {x: 20.5, y: 35.5}
+    - name: archer_52
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 17
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 35}
+        - {x: -21, y: 34}
+        - {x: -21, y: -35}
+        - {x: 17, y: -35}
+        - {x: 21, y: -32}
+        - {x: 21, y: 35}
+    - name: archer_53
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 22
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 32.5}
+        - {x: -14.5, y: 32.5}
+        - {x: -23.5, y: 28.5}
+        - {x: -23.5, y: -32.5}
+        - {x: 17.5, y: -32.5}
+        - {x: 23.5, y: -26.5}
+        - {x: 23.5, y: 3.5}
+        - {x: 18.5, y: 24.5}
+    - name: archer_54
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 22
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 32}
+        - {x: -27.5, y: 27}
+        - {x: -27.5, y: -31}
+        - {x: -25.5, y: -32}
+        - {x: 27.5, y: -32}
+        - {x: 27.5, y: 17}
+        - {x: 13.5, y: 32}
+    - name: archer_55
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 19
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 34}
+        - {x: -22.5, y: 29}
+        - {x: -22.5, y: -34}
+        - {x: 20.5, y: -34}
+        - {x: 22.5, y: -33}
+        - {x: 22.5, y: 25}
+        - {x: 14.5, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
